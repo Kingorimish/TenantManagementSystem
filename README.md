@@ -19,4 +19,4 @@ Screens → TenantViewModel (LiveData) → TenantRepository → Room
 | 3 Room | Nia Angel         | 189796        | (https://github.com/Kingorimish/TenantManagementSystem/pull/2) |
 | 4 Screens | Grace Githuku     | 191606        | https://github.com/Kingorimish/TenantManagementSystem/pull/3 |
 | 5 Data integration | Najma Chueb       | 189579        | (https://github.com/Kingorimish/TenantManagementSystem/pull/4) |
-| 6 Release | Amy Musyoka       | 163420        | (link) |
+| 6 Release | Amy Musyoka       | 163420        | https://github.com/Kingorimish/TenantManagementSystem/pull/5 |
