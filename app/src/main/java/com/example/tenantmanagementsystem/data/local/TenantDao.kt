@@ -1,5 +1,4 @@
-package local
-
+package com.example.tenantmanagementsystem.data.local
 import androidx.lifecycle.LiveData
 import androidx.room.Dao
 import androidx.room.Insert
